@@ -1,4 +1,4 @@
-# 大学思政问答GPT，向你的近代史、思修、毛概、马原教材提问吧！
+![image](https://github.com/TommyZihao/ChatMarx/assets/36354458/b2f2f85f-5183-4e13-96f8-77e9cedd82ca)# 大学思政问答GPT，向你的近代史、思修、毛概、马原教材提问吧！
 
 ## 特别说明
 
@@ -48,3 +48,19 @@ Github：https://github.com/maxoyed
 技术咨询、业务合作：B站私信“同济子豪兄”
 
 行业大模型、微信小程序、网站定制开发：公众号 人工智能小技巧 回复 定制开发
+
+## 参考资料
+
+中国近现代史纲要（2023年版），高等教育出版社
+思想道德与法治（2023年版），高等教育出版社
+马克思主义基本原理（2023年版），高等教育出版社
+毛泽东思想和中国特色社会主义理论体系概论（2023年版），高等教育出版社
+
+https://github.com/hwchase17/langchain
+https://github.com/imClumsyPanda/langchain-ChatGLM
+https://github.com/THUDM/ChatGLM2-6B
+https://github.com/PKU-YuanGroup/ChatLaw
+
+
+
+
