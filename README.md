@@ -1,4 +1,4 @@
-![image](https://github.com/TommyZihao/ChatMarx/assets/36354458/b2f2f85f-5183-4e13-96f8-77e9cedd82ca)# 大学思政问答GPT，向你的近代史、思修、毛概、马原教材提问吧！
+# 大学思政问答GPT，向你的近代史、思修、毛概、马原教材提问吧！
 
 ## 特别说明
 
