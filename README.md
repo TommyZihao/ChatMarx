@@ -52,13 +52,19 @@ Github：https://github.com/maxoyed
 ## 参考资料
 
 中国近现代史纲要（2023年版），高等教育出版社
+
 思想道德与法治（2023年版），高等教育出版社
+
 马克思主义基本原理（2023年版），高等教育出版社
+
 毛泽东思想和中国特色社会主义理论体系概论（2023年版），高等教育出版社
 
 https://github.com/hwchase17/langchain
+
 https://github.com/imClumsyPanda/langchain-ChatGLM
+
 https://github.com/THUDM/ChatGLM2-6B
+
 https://github.com/PKU-YuanGroup/ChatLaw
 
 
