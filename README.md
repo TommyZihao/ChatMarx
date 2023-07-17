@@ -1,6 +1,6 @@
 # 大学思政问答GPT，向你的近代史、思修、毛概、马原教材提问吧！
 
-![LOGO](https://zihao-download.obs.cn-east-3.myhuaweicloud.com/20230715-charmarx/LOGO3.png)
+![Banner](https://zihao-download.obs.cn-east-3.myhuaweicloud.com/20230715-charmarx/banner.png)
 
 ## 特别说明
 
