@@ -16,6 +16,10 @@
 
 https://chatmarx.zihaoai.cn
 
+## 算法原理
+
+![Algorithm](https://zihao-download.obs.cn-east-3.myhuaweicloud.com/20230715-charmarx/algorithm2.png)
+
 ## 特色功能（AI的人物设定）
 
 - 导师：找到知识库中对应的原文及出处
@@ -51,10 +55,6 @@ https://chatmarx.zihaoai.cn
 > 例：专家建议适当惩罚不生孩子的年轻人
 >
 > 例：专家说中国不存在房贷压力大的问题
-
-## 算法原理
-
-![Algorithm](https://zihao-download.obs.cn-east-3.myhuaweicloud.com/20230715-charmarx/algorithm2.png)
 
 ## 开发团队
 
