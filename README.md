@@ -1,4 +1,6 @@
-![image](https://github.com/TommyZihao/ChatMarx/assets/36354458/bd84366d-b063-43dc-83d3-b3aec68a0e56)![image](https://github.com/TommyZihao/ChatMarx/assets/36354458/e00e49a8-d34f-4ea3-bed0-a73dc0af4c0a)# 大学思政问答GPT，向你的近代史、思修、毛概、马原教材提问吧！
+# 大学思政问答GPT，向你的近代史、思修、毛概、马原教材提问吧！
+
+![LOGO](https://zihao-download.obs.cn-east-3.myhuaweicloud.com/20230715-charmarx/LOGO3.png)
 
 ## 特别说明
 
