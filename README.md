@@ -8,7 +8,9 @@
 
 ## 概述
 
-基于大学思政课教材构建中文知识库，基于Langchain和大语言模型，构建问答对话AI。
+使用大学思政课教材构建中文知识库，基于Langchain和大语言模型，构建问答对话AI。
+
+主页：https://github.com/TommyZihao/ChatMarx
 
 ## 在线网页Demo
 
@@ -80,6 +82,8 @@ Github：https://github.com/maxoyed
 
 ## 参考资料
 
+- 思政课教材
+
 中国近现代史纲要（2023年版），高等教育出版社
 
 思想道德与法治（2023年版），高等教育出版社
@@ -88,13 +92,31 @@ Github：https://github.com/maxoyed
 
 毛泽东思想和中国特色社会主义理论体系概论（2023年版），高等教育出版社
 
+- Langchain
+
 https://github.com/hwchase17/langchain
 
 https://github.com/imClumsyPanda/langchain-ChatGLM
 
+- 大语言模型
+
 https://github.com/THUDM/ChatGLM2-6B
 
 https://github.com/PKU-YuanGroup/ChatLaw
+
+https://github.com/InternLM/opencompass
+
+https://github.com/InternLM/InternLM
+
+- 中文自然语言处理-文本嵌入模型
+
+https://huggingface.co/shibing624/text2vec-base-chinese
+
+https://huggingface.co/GanymedeNil/text2vec-large-chinese
+
+https://huggingface.co/moka-ai/m3e-base
+
+
 
 
 
