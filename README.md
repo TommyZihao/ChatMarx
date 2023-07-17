@@ -52,6 +52,7 @@ https://chat.zihaoai.cn
 
 ## 算法原理
 
+![Algorithm](https://zihao-download.obs.cn-east-3.myhuaweicloud.com/20230715-charmarx/algorithm.png)
 
 ## 开发团队
 
