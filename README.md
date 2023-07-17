@@ -12,7 +12,7 @@
 
 ## 在线网页Demo
 
-https://chat.zihaoai.cn
+https://chatmarx.zihaoai.cn
 
 ## 特色功能（AI的人物设定）
 
