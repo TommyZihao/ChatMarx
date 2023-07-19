@@ -100,13 +100,17 @@ https://github.com/imClumsyPanda/langchain-ChatGLM
 
 - 大语言模型
 
+https://github.com/InternLM/InternLM
+
 https://github.com/THUDM/ChatGLM2-6B
 
 https://github.com/PKU-YuanGroup/ChatLaw
 
-https://github.com/InternLM/opencompass
+- 大语言模型测评榜单
 
-https://github.com/InternLM/InternLM
+https://opencompass.org.cn/leaderboard-llm
+
+https://github.com/InternLM/opencompass
 
 - 中文自然语言处理-文本嵌入模型
 
