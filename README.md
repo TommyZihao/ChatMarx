@@ -18,7 +18,7 @@ https://chatmarx.zihaoai.cn
 
 ## 算法原理
 
-![Algorithm](https://zihao-download.obs.cn-east-3.myhuaweicloud.com/20230715-charmarx/algorithm2.png)
+![Algorithm](https://zihao-download.obs.cn-east-3.myhuaweicloud.com/20230715-charmarx/algorithm3.png)
 
 ## 特色功能（AI的人物设定）
 
