@@ -22,6 +22,8 @@
 
 ## 特色功能（AI的人物设定）
 
+![role](https://zihao-download.obs.cn-east-3.myhuaweicloud.com/20230715-charmarx/role.png)
+
 - 导师：找到知识库中对应的原文及出处
 
 > 例：太平天国运动的历史影响
