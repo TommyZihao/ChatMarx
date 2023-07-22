@@ -4,17 +4,15 @@
 
 ## 特别说明
 
-本项目仅用于科普、教学、科研，AI回答结果仅供参考，可能有待进一步优化，且不代表任何人的观点，任何后果与开发团队无关。
+本项目仅用于科普、科研、教学，AI回答结果仅供参考，可能有待进一步优化，且不代表任何人的观点，任何后果与开发团队无关。
 
 ## 概述
 
-使用大学思政课教材构建中文知识库，基于Langchain和大语言模型，构建问答对话AI。
+借助前沿的人工智能大语言模型和中文自然语言处理技术，把大学本科的四本思政教材，做成类似ChatGPT的问答AI。
+
+在线Demo：https://chatmarx.zihaoai.cn
 
 主页：https://github.com/TommyZihao/ChatMarx
-
-## 在线网页Demo
-
-https://chatmarx.zihaoai.cn
 
 ## 算法原理
 
@@ -50,7 +48,7 @@ https://chatmarx.zihaoai.cn
 >
 > 例：为什么说人民群众是历史的创造者？
 
-- 记者：客观评价社会时事新闻（与知识库无关）
+- 研究员：客观评价社会时事新闻（与知识库无关）
 
 > 例：如何看待C919国产大飞机顺利交付
 >
@@ -129,9 +127,4 @@ https://huggingface.co/shibing624/text2vec-base-chinese
 https://huggingface.co/GanymedeNil/text2vec-large-chinese
 
 https://huggingface.co/moka-ai/m3e-base
-
-
-
-
-
 
