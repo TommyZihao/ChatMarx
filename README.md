@@ -18,8 +18,6 @@
 
 ![Algorithm](https://zihao-download.obs.cn-east-3.myhuaweicloud.com/20230715-charmarx/algorithm3.png)
 
-![Prompt](https://zihao-download.obs.cn-east-3.myhuaweicloud.com/20230715-charmarx/prompt-temp.png)
-
 ## 特色功能（AI的人物设定）
 
 ![role](https://zihao-download.obs.cn-east-3.myhuaweicloud.com/20230715-charmarx/3-role.png)
