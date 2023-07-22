@@ -18,6 +18,8 @@
 
 ![Algorithm](https://zihao-download.obs.cn-east-3.myhuaweicloud.com/20230715-charmarx/algorithm3.png)
 
+![Prompt](https://zihao-download.obs.cn-east-3.myhuaweicloud.com/20230715-charmarx/prompt-temp.png)
+
 ## 特色功能（AI的人物设定）
 
 - 导师：找到知识库中对应的原文及出处
