@@ -16,6 +16,8 @@
 
 在线Demo：https://chatmarx.zihaoai.cn
 
+视频介绍：https://www.bilibili.com/video/BV1E94y1v7aa
+
 主页：https://github.com/TommyZihao/ChatMarx
 
 ## 算法原理
